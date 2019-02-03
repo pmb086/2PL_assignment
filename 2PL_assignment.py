@@ -12,9 +12,6 @@ Lock Table records all the data item's lock statuses and its corresponding trans
 #Reference Source:
 #https://stackoverflow.com/questions/16333296/how-do-you-create-nested-dict-in-python
 #https://docs.python.org/2/tutorial/inputoutput.html
-#https://github.com/DDimitris/2PL/tree/master/src/dbProject
-#https://github.com/shubhang-arora/two-phase-locking/blob/master/Assignment.py
-#https://github.com/sadhana55?tab=repositories
 import sys;
 
 transaction_table={} #Transaction table is a dictionry of dictionaries(wherein key is the transaction id and value is the dictionary of its attributes)
