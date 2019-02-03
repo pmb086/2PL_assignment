@@ -1,7 +1,6 @@
 
 '''
     Authors: Balaji Paiyur Mohan(1001576836)
-             Aishwarya Somesula(1001408525)
 '''
 '''
 In this project we have implemented rigorous 2PL with wait die protocol. 
